@@ -182,6 +182,4 @@ By analyzing customers, products, categories, suppliers, employees, and sales tr
 * Sales planning
 * Data-driven business decisions
 
-> **SQL isn't just about querying data — it's about uncovering insights that drive smarter business decisions.**
-
 ---
