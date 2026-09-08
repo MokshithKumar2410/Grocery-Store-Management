@@ -169,33 +169,6 @@ Leverage historical sales patterns to improve inventory and operational planning
 
 ---
 
-## 📁 Project Structure
-
-```text
-Grocery-Store-Management-SQL/
-│
-├── README.md
-│
-├── Database/
-│   ├── database_creation.sql
-│   ├── table_creation.sql
-│   └── data_insertion.sql
-│
-├── SQL_Queries/
-│   ├── Basic_Analysis.sql
-│   ├── Customer_Analysis.sql
-│   ├── Product_Analysis.sql
-│   ├── Supplier_Analysis.sql
-│   ├── Sales_Analysis.sql
-│   └── Advanced_Analysis.sql
-│
-└── Results/
-    └── screenshots/
-```
-
-*Update the folder/file names above to match your actual GitHub project structure.*
-
----
 
 ## 📌 Conclusion
 
@@ -212,11 +185,3 @@ By analyzing customers, products, categories, suppliers, employees, and sales tr
 > **SQL isn't just about querying data — it's about uncovering insights that drive smarter business decisions.**
 
 ---
-
-## 👤 Author
-
-**Mokshith Kumar**
-
-Aspiring Business Analyst | SQL | Power BI | Advanced Excel | Python
-
-[LinkedIn](https://www.linkedin.com/)
