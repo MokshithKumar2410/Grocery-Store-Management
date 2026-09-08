@@ -1,5 +1,4 @@
-# 🛒 Grocery Store Management Analysis | SQL Project
-
+# 🛒 Grocery Store Management Analysis
 ## 📌 Project Overview
 
 Every grocery store generates thousands of transactions every day. Behind every transaction lies valuable information that can help businesses understand customers, products, suppliers, and sales performance.
